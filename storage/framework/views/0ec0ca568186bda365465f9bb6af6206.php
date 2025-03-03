@@ -1,0 +1,1 @@
+choiw đê<?php /**PATH C:\xampp\htdocs\vanban\resources\views/choice/choice-home.blade.php ENDPATH**/ ?>
