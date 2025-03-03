@@ -1,0 +1,8 @@
+.clock{
+    position: fixed;
+    top: 10%;
+    right: 2%;
+    background-color: blue;
+    padding: 10px;
+    color: cyan;
+}
